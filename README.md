@@ -12,8 +12,9 @@ To get started with the app, simply download the source code from this repositor
 
 Here are some screenshots of the app in action:
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Calendar_APP](https://user-images.githubusercontent.com/42768156/235614435-b9f7560e-f743-4b1e-ae14-3841d2604cba.png)
+![Calendar_APP_selected](https://user-images.githubusercontent.com/42768156/235614438-0cd8d428-c646-4f86-87b6-07ac8c53dce4.png)
+
 
 ## License
 
